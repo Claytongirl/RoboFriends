@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/JessicaJoy/Robofriends/static/css/main.5088a9cc.chunk.css",
+    "main.js": "/JessicaJoy/Robofriends/static/js/main.b44551f5.chunk.js",
+    "main.js.map": "/JessicaJoy/Robofriends/static/js/main.b44551f5.chunk.js.map",
+    "runtime-main.js": "/JessicaJoy/Robofriends/static/js/runtime-main.ae8d1ae1.js",
+    "runtime-main.js.map": "/JessicaJoy/Robofriends/static/js/runtime-main.ae8d1ae1.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/JessicaJoy/Robofriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a5747d58.chunk.js": "/JessicaJoy/Robofriends/static/js/2.a5747d58.chunk.js",
+    "static/js/2.a5747d58.chunk.js.map": "/JessicaJoy/Robofriends/static/js/2.a5747d58.chunk.js.map",
+    "index.html": "/JessicaJoy/Robofriends/index.html",
+    "precache-manifest.3b26902482b0570f22bba381ee853d7b.js": "/JessicaJoy/Robofriends/precache-manifest.3b26902482b0570f22bba381ee853d7b.js",
+    "service-worker.js": "/JessicaJoy/Robofriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/JessicaJoy/Robofriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.5088a9cc.chunk.css.map": "/JessicaJoy/Robofriends/static/css/main.5088a9cc.chunk.css.map",
+    "static/js/2.a5747d58.chunk.js.LICENSE.txt": "/JessicaJoy/Robofriends/static/js/2.a5747d58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae8d1ae1.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a5747d58.chunk.js",
+    "static/css/main.5088a9cc.chunk.css",
+    "static/js/main.b44551f5.chunk.js"
+  ]
+}
